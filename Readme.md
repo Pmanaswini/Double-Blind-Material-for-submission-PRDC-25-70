@@ -1,7 +1,7 @@
-# Double Blind Material for submission SRDS'25 \# 131
+# Double Blind Material for submission PRDC'25 \# 70
 
-Conference `SRDS` Year: `2025`
-Submssion ID: `#131`
+Conference `PRDC` Year: `2025`
+Submssion ID: `#70`
 
 Avialable Until: `Feb, 21 2025 (AoE)`
 
